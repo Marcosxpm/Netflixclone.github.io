@@ -1,6 +1,6 @@
 #Clone: Netflix 🎬
 <p align="center">
-	<img src="https://imgur.com/Eb5kxeX" alt="Clone: Netflix" title="Clone: Netflix">
+	<img src="https://i.imgur.com/NxZd0C5.png" alt="Clone: Netflix" title="Clone: Netflix">
 </p>
 
 ## 📖 Sobre   
@@ -17,7 +17,7 @@ Clone da página inicial da **Netflix** desenvolvido durante o Bootcamp **HTML W
 
 ## 🖥️ Demonstração
 
-![](https://i.imgur.com/GMN1JAv.png)   
+![](https://i.imgur.com/Eb5kxeX.png)   
 
 Você pode acessar o projeto clicando [aqui](https://marcosxpm.github.io/Netflixclone.github.io/).
 
